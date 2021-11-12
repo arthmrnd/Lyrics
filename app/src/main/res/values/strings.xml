@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lyrics</string>
+    <string name="button_original">Original</string>
+    <string name="button_translate">Translate</string>
+</resources>
